@@ -10,6 +10,12 @@ module.exports = {
     rules: {
         '@typescript-eslint/ban-ts-comment': 'warn',
         '@typescript-eslint/consistent-type-definitions': 'off',
+        '@typescript-eslint/no-empty-interface': [
+            'error',
+            {
+                allowSingleExtends: false,
+            },
+        ],
         '@typescript-eslint/no-unsafe-assignment': 'off',
         '@typescript-eslint/no-unsafe-call': 'off',
         '@typescript-eslint/no-unsafe-member-access': 'off',
