@@ -24,7 +24,12 @@ module.exports = {
         ],
         curly: 'error',
         'default-case': 'error',
-        'no-unused-expressions': 'error',
+        'no-unused-expressions': [
+            'error',
+            {
+                allowShortCircuit: true,
+            },
+        ],
         'prefer-const': 'error',
         'prefer-promise-reject-errors': 'error',
         'quote-props': [
