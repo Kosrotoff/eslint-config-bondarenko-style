@@ -1,3 +1,9 @@
+## [1.1.1](https://github.com/Kosrotoff/eslint-config-bondarenko-style/releases/tag/1.1.1) (2023-07-22)
+
+### Fixed
+
+- fix(recommended-config): apply consistent line breaks for imports
+
 ## [1.1.0](https://github.com/Kosrotoff/eslint-config-bondarenko-style/releases/tag/1.1.0) (2023-07-20)
 
 ### Features
