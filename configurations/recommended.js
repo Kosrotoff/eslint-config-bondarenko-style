@@ -96,6 +96,7 @@ module.exports = {
                     multiline: true,
                 },
                 ImportDeclaration: {
+                    consistent: true,
                     multiline: true,
                 },
                 ExportDeclaration: {
