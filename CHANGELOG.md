@@ -1,3 +1,9 @@
+## [1.1.2](https://github.com/Kosrotoff/eslint-config-bondarenko-style/releases/tag/1.1.2) (2024-04-07)
+
+### Chores
+
+- chore: update dependencies
+
 ## [1.1.1](https://github.com/Kosrotoff/eslint-config-bondarenko-style/releases/tag/1.1.1) (2023-07-22)
 
 ### Fixed
